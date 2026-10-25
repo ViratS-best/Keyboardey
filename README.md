@@ -46,7 +46,7 @@ Finished MCU schematic:
 Routing & Placement:
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/a5db5494-f201-479b-88d4-d5849f6ce2fc" />
 
-#BoM
+# BoM
 | Component / Service | Description | Cost |
 | ---- | ---- | ---- |
 | PCB & Assembly | Manufactured and assembled via JLCPCB | $96.24 |
