@@ -28,7 +28,7 @@ PCB and Case on Onshape (This was when I didn't know that I would actually have 
 |── KEYBOARDEY.kicad__prl
 |── KEYBOARDEY.kicad__pro
 |── KEYBOARDEY.kicad__sch
-|── KEYBOARDEY.step
+|── Keyboardey.step
 ```
 
 # PCB
@@ -46,4 +46,11 @@ Finished MCU schematic:
 Routing & Placement:
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/a5db5494-f201-479b-88d4-d5849f6ce2fc" />
 
+#BoM
+| Component / Service | Description | Cost |
+| ---- | ---- | ---- |
+| PCB & Assembly | Manufactured and assembled via JLCPCB | $96.24 |
+| Shipping | Shipping and handling | $18.34 |
+| 3D Printing | Case and custom keycaps (estimated) | ~$10.00 |
+| Total Estimated Cost | | ~$124.58 |
 
