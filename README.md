@@ -1,4 +1,5 @@
 Link: https://cad.onshape.com/documents/37fd5a85f79ebe20a6029276/w/db3c2ffc712adf7ef06de7c5/e/88f673a97a289337726580ef?renderMode=0&uiState=6ad8d7fe5b5abcf9bb015cb8
+
 # Keyboardey
 
 A weird keyboard CAD & Hardware design created for Half-Life.
@@ -19,7 +20,6 @@ I also had to create a custom cutout extrude to position keys correctly!
 PCB and Case on Onshape (This was when I didn't know that I would actually have to change key chapes, and cutout shape):
 <img width="1129" height="476" alt="image" src="https://github.com/user-attachments/assets/50e0cd9d-3e2d-4102-8f99-b2fc0a5adfeb" />
 
-
 ## Project Structure
 
 ```text
@@ -32,9 +32,9 @@ PCB and Case on Onshape (This was when I didn't know that I would actually have 
 ```
 
 # PCB
+
 I decided to not use a module microcontroller but rather build one myself:
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/1c14f7cf-345a-4a13-8b0f-7699ab9020c4" />
-
 
 Then I added the keyboard matrix:
 
@@ -47,10 +47,11 @@ Routing & Placement:
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/a5db5494-f201-479b-88d4-d5849f6ce2fc" />
 
 # BoM
-| Component / Service | Description | Cost |
-| ---- | ---- | ---- |
-| PCB & Assembly | Manufactured and assembled via JLCPCB | $96.24 |
-| Shipping | Shipping and handling | $18.34 |
-| 3D Printing | Case and custom keycaps (estimated) | ~$10.00 |
-| Total Estimated Cost | | ~$124.58 |
 
+| Component / Service  | Description                           | Cost    |
+| -------------------- | ------------------------------------- | ------- |
+| PCB & Assembly       | Manufactured and assembled via JLCPCB | $29.07  |
+| 3D Printing          | Case and custom keycaps (estimated)   | ~$10.00 |
+| Kalih Choc Switches  | Low profile key switches for keys     | $13.80  |
+| Shipping             | Shipping and handling                 | $17.89  |
+| Total Estimated Cost |                                       | ~$70.76 |
