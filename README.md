@@ -44,7 +44,8 @@ Finished MCU schematic:
 <img width="890" height="411" alt="image" src="https://github.com/user-attachments/assets/a84cc5a9-d2d8-4366-b00d-d3318192936b" />
 
 Routing & Placement:
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/a5db5494-f201-479b-88d4-d5849f6ce2fc" />
+
+<img width="465" height="524" alt="image" src="https://github.com/user-attachments/assets/6691f3b9-6a8f-44f2-a5c9-95cd096af886" />
 
 # BoM
 
