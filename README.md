@@ -51,8 +51,8 @@ Routing & Placement:
 
 | Component / Service  | Description                           | Cost    |
 | -------------------- | ------------------------------------- | ------- |
-| PCB & Assembly       | Manufactured and assembled via JLCPCB | $29.07  |
-| 3D Printing          | Case and custom keycaps (estimated)   | ~$10.00 |
-| Kalih Choc Switches  | Low profile key switches for keys     | $13.80  |
-| Shipping             | Shipping and handling                 | $17.89  |
-| Total Estimated Cost |                                       | ~$70.76 |
+| PCB & Assembly       | Manufactured and assembled via JLCPCB | $29.08  |
+| 3D Printing          | Case and custom keycaps (estimated)   | ~$4.25 |
+| Kalih Choc Switches  | Low profile key switches for keys     | $8  |
+| Shipping             | Shipping and handling                 | $31.55  |
+| Total Estimated Cost |                                       | ~$72.88 |
